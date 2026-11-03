@@ -155,8 +155,6 @@ If you enable functionality that calls the Gemini API, create a local `.env` fil
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-Get an API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
-
 Keep your real `.env` file and API keys private. Do not commit secrets to GitHub. The example file is a template; it does not contain a working API key.
 
 ### 4. Run the application
@@ -255,7 +253,7 @@ Contributions, bug reports and feature suggestions are welcome.
 
 ## License
 
-No license file is currently included in this repository. Unless a license is added, the project remains under the default copyright terms of its owner; do not assume it is open source for reuse or redistribution.
+No license is currently included in this repository. Unless a license is added, the project remains under the default copyright terms of its owner; do not assume it is open source for reuse or redistribution.
 
 ## Repository
 
