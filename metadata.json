@@ -1,6 +1,6 @@
 {
   "name": "MobiKazi",
-  "description": "Kirinyaga University Mobile Application Development practical app featuring authentication, job application submission, and interactive questionnaire.",
+  "description": "Mobile Application Development app featuring authentication, job application submission, and interactive questionnaire.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
